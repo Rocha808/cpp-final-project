@@ -1,1 +1,2 @@
 # cpp-final-project
+This program display the 2024/2025 season's Champion League knockout stages and allows the user to predict the winner of Europe's most prestigious club soccer competition with some of the best teams in the world. With the use of overloaded functions, manipulators, loops/decision statements and more, all the rounds of every bracket in the tournament are decided by the user, all the way to the Final to display the winner of the 70th annual Champions League.
